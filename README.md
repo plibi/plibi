@@ -6,16 +6,15 @@
 
 # Hi there! :raised_hand_with_fingers_splayed:
 
-It's plibi!
+#### I'm Studying AI & Data Science.
 
-#### I Dream of becoming a Big Data Engineer
-
-- Big data anlaysis
+- Data Analysis
 
 - Machine Learning
+- Deep Learning
 
 
 
 ##### Interest
 
--  Deep Learning
+-  Natural Language Processing
