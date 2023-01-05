@@ -10,11 +10,26 @@
 
 - Data Analysis
 
-- Machine Learning
-- Deep Learning
+- ML / DL
+- Natural Language Processing
 
 
 
-##### Interest
+##### Interests
 
--  Natural Language Processing
+-  Text Classification, Semantic Analysis
+-  ChatBot
+
+
+
+##### Tech Stacks
+
+- <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white">
+
+
+
+##### Projects
+
+- [News Topic Classification](https://github.com/plibi/news-topic-classification)
+- [Movie Keyword Extraction](https://github.com/plibi/movie-keyword-extraction)
+
